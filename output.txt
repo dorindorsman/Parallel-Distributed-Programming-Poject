@@ -1,0 +1,99 @@
+SEQ1:  
+BEST SCORES FOR EACH SEQ:
+SEQ2:
+OFFSET (n) = 363 , MUTANT (k) = 86 , SCORE = 135 
+
+SEQ3:
+OFFSET (n) = 126 , MUTANT (k) = 41 , SCORE = 1927 
+
+SEQ4:
+OFFSET (n) = 855 , MUTANT (k) = 51 , SCORE = 335 
+
+SEQ5:
+OFFSET (n) = 975 , MUTANT (k) = 215 , SCORE = 286 
+
+SEQ6:
+OFFSET (n) = 363 , MUTANT (k) = 86 , SCORE = 135 
+
+SEQ7:
+OFFSET (n) = 126 , MUTANT (k) = 41 , SCORE = 1927 
+
+SEQ8:
+OFFSET (n) = 855 , MUTANT (k) = 51 , SCORE = 335 
+
+SEQ9:
+OFFSET (n) = 975 , MUTANT (k) = 215 , SCORE = 286 
+
+SEQ10:
+OFFSET (n) = 363 , MUTANT (k) = 86 , SCORE = 135 
+
+SEQ11:
+OFFSET (n) = 126 , MUTANT (k) = 41 , SCORE = 1927 
+
+SEQ12:
+OFFSET (n) = 855 , MUTANT (k) = 51 , SCORE = 335 
+
+SEQ13:
+OFFSET (n) = 975 , MUTANT (k) = 215 , SCORE = 286 
+
+SEQ14:
+OFFSET (n) = 363 , MUTANT (k) = 86 , SCORE = 135 
+
+SEQ15:
+OFFSET (n) = 126 , MUTANT (k) = 41 , SCORE = 1927 
+
+SEQ16:
+OFFSET (n) = 855 , MUTANT (k) = 51 , SCORE = 335 
+
+SEQ17:
+OFFSET (n) = 975 , MUTANT (k) = 215 , SCORE = 286 
+
+SEQ18:
+OFFSET (n) = 363 , MUTANT (k) = 86 , SCORE = 135 
+
+SEQ19:
+OFFSET (n) = 126 , MUTANT (k) = 41 , SCORE = 1927 
+
+SEQ20:
+OFFSET (n) = 855 , MUTANT (k) = 51 , SCORE = 335 
+
+SEQ21:
+OFFSET (n) = 975 , MUTANT (k) = 215 , SCORE = 286 
+
+SEQ22:
+OFFSET (n) = 363 , MUTANT (k) = 86 , SCORE = 135 
+
+SEQ23:
+OFFSET (n) = 126 , MUTANT (k) = 41 , SCORE = 1927 
+
+SEQ24:
+OFFSET (n) = 855 , MUTANT (k) = 51 , SCORE = 335 
+
+SEQ25:
+OFFSET (n) = 975 , MUTANT (k) = 215 , SCORE = 286 
+
+SEQ26:
+OFFSET (n) = 363 , MUTANT (k) = 86 , SCORE = 135 
+
+SEQ27:
+OFFSET (n) = 126 , MUTANT (k) = 41 , SCORE = 1927 
+
+SEQ28:
+OFFSET (n) = 855 , MUTANT (k) = 51 , SCORE = 335 
+
+SEQ29:
+OFFSET (n) = 975 , MUTANT (k) = 215 , SCORE = 286 
+
+SEQ30:
+OFFSET (n) = 363 , MUTANT (k) = 86 , SCORE = 135 
+
+SEQ31:
+OFFSET (n) = 126 , MUTANT (k) = 41 , SCORE = 1927 
+
+SEQ32:
+OFFSET (n) = 855 , MUTANT (k) = 51 , SCORE = 335 
+
+SEQ33:
+OFFSET (n) = 975 , MUTANT (k) = 215 , SCORE = 286 
+
+time: 8.000000 
